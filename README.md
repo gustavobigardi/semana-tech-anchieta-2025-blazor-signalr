@@ -1,5 +1,9 @@
 # Semana de Tecnologia UniAnchieta 2025 — Blazor reativo (SSE e SignalR)
 
+## Slides
+
+- [Slides da apresentação (PDF)](Slides/SemanaTecnologiaAnchieta2025_BlazorSignalR.pdf) — PDF com os slides usados na apresentação.
+
 Este repositório contém dois exemplos usados no workshop sobre reatividade no Blazor durante a Semana de Tecnologia da UniAnchieta 2025:
 
 - BlazorServerSentEvents — Demonstração de reatividade usando Server-Sent Events (SSE) com um backend ASP.NET e um cliente Blazor WebAssembly hospedado.
