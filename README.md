@@ -2,7 +2,7 @@
 
 ## Slides
 
-- [Slides da apresentação (PDF)](Slides/SemanaTecnologiaAnchieta2025_BlazorSignalR.pdf) — PDF com os slides usados na apresentação.
+- [Slides da apresentação (PDF)](Slides/SemanaTecnologiaAnchieta2025_CSharp.pdf) — PDF com os slides usados na apresentação.
 
 Este repositório contém dois exemplos usados no workshop sobre desenvolvimento de aplicações com C# durante a Semana de Tecnologia da UniAnchieta 2025. Os exemplos focam em comunicação em tempo real e reatividade, mostrando implementações em C# usando SSE e SignalR.
 
